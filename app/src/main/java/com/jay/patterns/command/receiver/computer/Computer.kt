@@ -1,4 +1,4 @@
-package com.jay.patterns.command.receivers
+package com.jay.patterns.command.receiver.computer
 
 /**
  * Receiver

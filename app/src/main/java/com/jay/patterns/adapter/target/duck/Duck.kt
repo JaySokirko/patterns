@@ -1,4 +1,4 @@
-package com.jay.patterns.adapter.target
+package com.jay.patterns.adapter.target.duck
 
 interface Duck {
     fun quack()

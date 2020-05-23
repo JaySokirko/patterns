@@ -1,7 +1,7 @@
-package com.jay.patterns.adapter.adapters
+package com.jay.patterns.adapter.adapters.duck
 
-import com.jay.patterns.adapter.adaptee.Turkey
-import com.jay.patterns.adapter.target.Duck
+import com.jay.patterns.adapter.adaptee.duck.Turkey
+import com.jay.patterns.adapter.target.duck.Duck
 
 class TurkeyAdapter(private val turkey: Turkey) : Duck {
 

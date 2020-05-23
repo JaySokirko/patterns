@@ -1,4 +1,4 @@
-package com.jay.patterns.adapter.adaptee
+package com.jay.patterns.adapter.adaptee.duck
 
 interface Turkey {
     fun gobble()

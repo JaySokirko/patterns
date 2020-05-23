@@ -1,6 +1,4 @@
-package com.jay.patterns.adapter.client
-
-import com.jay.patterns.adapter.target.Duck
+package com.jay.patterns.adapter.target.duck
 
 class MallardDuck: Duck {
 
