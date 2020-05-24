@@ -51,3 +51,10 @@ settings.gradle
 .idea/misc.xml
 .idea/runConfigurations.xml
 build.gradle
+app/src/main/res/drawable/ic_menu_camera.xml
+app/src/main/res/drawable/ic_menu_gallery.xml
+app/src/main/res/drawable/ic_menu_slideshow.xml
+app/src/main/res/drawable/side_nav_bar.xml
+app/src/main/res/menu/navigation_menu.xml
+app/src/main/res/values/array.xml
+app/src/main/res/values/dimens.xml
